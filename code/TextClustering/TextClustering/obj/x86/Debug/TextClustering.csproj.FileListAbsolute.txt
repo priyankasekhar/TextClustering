@@ -1,0 +1,51 @@
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\bin\Debug\TextClustering.exe
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\bin\Debug\TextClustering.pdb
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Properties.Resources.resources
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.TextClusteringGUI.resources
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.exe
+C:\Users\DPK\Downloads\Compressed\TextClustering\TextClustering\TextClustering\obj\x86\Debug\TextClustering.pdb
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\TextClustering.exe
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\TextClustering.pdb
+D:\Working\Windows\TextClustering\TextClustering\bin\Debug\TextClustering.exe
+D:\Working\Windows\TextClustering\TextClustering\bin\Debug\TextClustering.pdb
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Properties.Resources.resources
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\TextClustering.TextClusteringGUI.resources
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Working\Windows\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Form1.resources
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\TextClustering.exe
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\TextClustering.pdb
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\bin\Debug\TextClustering.exe
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\bin\Debug\TextClustering.pdb
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Form1.resources
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Properties.Resources.resources
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\TextClustering.TextClusteringGUI.resources
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sown\Documents\Visual Studio 2010\Projects\text\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.exe
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.pdb
+C:\Users\sown\Desktop\TextClustering\TextClustering\bin\Debug\TextClustering.exe
+C:\Users\sown\Desktop\TextClustering\TextClustering\bin\Debug\TextClustering.pdb
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Form1.resources
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Properties.Resources.resources
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.TextClusteringGUI.resources
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sown\Desktop\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.exe
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.pdb
+C:\Users\suja\Desktop\TextClustering\TextClustering\bin\Debug\TextClustering.exe
+C:\Users\suja\Desktop\TextClustering\TextClustering\bin\Debug\TextClustering.pdb
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Form1.resources
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.Properties.Resources.resources
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\TextClustering.TextClusteringGUI.resources
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\suja\Desktop\TextClustering\TextClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\suja\Desktop\final yr project\complete\code\TextClustering\TextClustering\obj\x86\Debug\TextClustering.exe
+C:\Users\suja\Desktop\final yr project\complete\code\TextClustering\TextClustering\obj\x86\Debug\TextClustering.pdb
