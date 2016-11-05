@@ -1,5 +1,8 @@
 # TextClustering
 
+##DOCUMENT CLUSTERING AND TOPIC IDENTIFICATION FOR COMPUTER AIDED INVESTIGATION ON SEIZED DEVICES
+
+
 #ABSTRACT
 
 In computer forensic analysis, hundreds of thousands of files are usually examined. In the current scenario , human categorization is made use of to categorize these documents. The inherent problem in this approach is that it is very time-consuming and costly, thus limiting its applicability especially for large or rapidly changing collections. In the past few years, several learning techniques such as rule-based approaches similar to those used in expert systems have been used, but they generally require manual construction of the rules, make rigid binary decisions about category membership, and are typically difficult to modify.  
